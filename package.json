@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MatthewAlner/supercalifragilisticexpialiplaceholder/issues"
   },
-  "homepage": "https://github.com/MatthewAlner/supercalifragilisticexpialiplaceholder#readme"
+  "homepage": "https://github.com/MatthewAlner/supercalifragilisticexpialiplaceholder#readme",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  }
 }
